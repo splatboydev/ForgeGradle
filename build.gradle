@@ -94,7 +94,7 @@ dependencies {
     shade 'net.minecraftforge.srg2source:Srg2Source:3.3-SNAPSHOT'
 
     // The old version used by S2S is gone, so we need to force the latest build of that minor release
-    shade('org.eclipse.jdt:org.eclipse.jdt.core:3.10.0.+') {
+    shade('org.eclipse.jdt:org.eclipse.jdt.core:3.12.2') {
         force = true
     }
 
