@@ -89,7 +89,7 @@ public class Utils {
     public static final String MOJANG_MAVEN            = "https://libraries.minecraft.net/";
     public static final String SPECIALSOURCE           = "net.md-5:SpecialSource:1.11.2:shaded";
     public static final String BINPATCHER              = art("binarypatcher",           "1.2.0",  "fatjar");
-    public static final String ACCESSTRANSFORMER       = art("accesstransformers",      "8.2.0",  "fatjar");
+    public static final String ACCESSTRANSFORMER       = art("accesstransformers",      "8.2.1",  "fatjar");
     public static final String FART                    = art("ForgeAutoRenamingTool",   "1.0.6",  "all"   );
     public static final String SRG2SOURCE              = art("Srg2Source",              "8.0.9",  "fatjar");
     public static final String SIDESTRIPPER            = art("mergetool",               "1.1.7",  "fatjar");
